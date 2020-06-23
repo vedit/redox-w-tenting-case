@@ -1,4 +1,4 @@
-# Alternative Redox W case
+# Alternative Redox W case with Tenting Stilts
 
 This is a case modification for [Redox W](https://github.com/mattdibi/redox-keyboard)  
 
