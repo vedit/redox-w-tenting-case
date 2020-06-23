@@ -1,6 +1,6 @@
 # Alternative Redox W case
 
-This is a case for Redox W that can be found in the [redox-w repository](https://github.com/mattdibi/redox-keyboard)  
+This is a case modification for [Redox W](https://github.com/mattdibi/redox-keyboard)  
 
 ## Source Materials
 
